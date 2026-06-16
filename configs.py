@@ -4,8 +4,8 @@ MP_ACCESS_TOKEN     = "APP_USR-2124619520875136-050217-83006ef8039b1618a94dbd560
 CRYPTOBOT_API_TOKEN = "SUA_CHAVE_CRYPTOBOT_AQUI"     # @CryptoBot → /pay → criar app
 
 # ── Telegram ──────────────────────────────────────────────────────────────────
-BOT_TOKEN      = "7982853718:AAFZLp5wkBnGzaSw5liin-puE9aUDH1lzAw"                # @BotFather
-BOT_USERNAME   = "@NumberNinja00_bot"
+BOT_TOKEN      = "8910264378:AAEovl5tzVHgqoAKuCaBQji3SeaJ_XVX42I"                # @BotFather
+BOT_USERNAME   = "@AccountForge_store_bot"
 ADMIN_USER_IDS = [5384467590]
 
 # ── Banco de dados ────────────────────────────────────────────────────────────
