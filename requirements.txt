@@ -1,0 +1,4 @@
+flask>=2.0
+mercadopago
+python-telegram-bot>=20.0
+requests>=2.0
